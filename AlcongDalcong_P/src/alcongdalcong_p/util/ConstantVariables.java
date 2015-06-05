@@ -1,4 +1,4 @@
-package alcongdalcong_p.user;
+package alcongdalcong_p.util;
 
 public class ConstantVariables {
 	

@@ -28,6 +28,8 @@
         </activity>
         <activity android:name="alcongdalcong_p.user.TabMain" >
         </activity>
+        <activity android:name="alcongdalcong_p.options.MessagePage"></activity>
+        <activity android:name="alcongdalcong_p.options.SettingList"></activity>
     </application>
 
 </manifest>
